@@ -1,0 +1,9 @@
+/.venv/
+/data/
+/log/
+/etc/
+/resources/
+/results/
+*__pycache__/
+*.pyc
+
