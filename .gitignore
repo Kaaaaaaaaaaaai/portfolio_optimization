@@ -5,5 +5,6 @@
 /resources/
 /results/
 *__pycache__/
+/scripts/
 *.pyc
 
